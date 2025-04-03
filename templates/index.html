@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistical Distribution Solver</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script>
+        function resetForm() {
+            document.getElementById("problemInput").value = "";  // Clear input field
+            document.querySelectorAll(".result-box").forEach(el => el.style.display = "none"); // Hide results
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Statistical Distribution Solver</h1>
+        <p>Enter a probability question below:</p>
+
+        <form action="/" method="POST">
+            <input type="text" name="problem" id="problemInput" placeholder="Enter your problem statement" required 
+                   value="{{ request.form['problem'] if request.method == 'POST' else '' }}">            
+            <button type="submit">Solve</button>           
+            <button type="button" class="retry-button" onclick="resetForm()">Retry</button> <!-- Retry Button -->
+        </form>
+                
+        {% if parameters %}
+        <div class="result-box">
+            <h2>Extracted Parameters</h2>
+            <p>{{ parameters }}</p>
+        </div>
+        {% endif %}
+
+        {% if explanation %}
+        <div class="result-box">
+            <h2>Step-by-Step Solution</h2>
+            <p>{{ explanation | safe }}</p>
+        </div>
+        {% endif %}
+
+        {% if result %}
+        <div class="result-box">
+            <h2>Final Result</h2>
+            <p>{{ result }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,199 @@
+problem_statement,distribution
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+factory tests items defect rate probability exactly defective items,binomial
+factory tests items defect rate probability exactly defective items,binomial
+factory tests items defect rate probability exactly defective items,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+coin flipped times probability getting exactly heads,binomial
+factory tests items defect rate probability exactly defective items,binomial
+factory tests items defect rate probability exactly defective items,binomial
+coin flipped times probability getting exactly heads,binomial
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+shop gets customers per hour probability customers arrive hour,poisson
+call center receives calls per minute probability exactly calls,poisson
+call center receives calls per minute probability exactly calls,poisson
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+player success rate probability first success occurs th attempt,geometric
+factory machine assembles item successfully time probability first success happens th attempt,geometric
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+light bulb lasts average hours probability lasts hours,exponential
+bus arrives every minutes average probability arrives within minutes,exponential
+light bulb lasts average hours probability lasts hours,exponential
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+test average score standard deviation probability scoring,normal
+test average score standard deviation probability scoring,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+test average score standard deviation probability scoring,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+heights students follow normal distribution mean cm sd cm probability student shorter cm,normal
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+bus randomly arrives minutes probability arriving minutes,uniform
+number randomly picked probability less,uniform

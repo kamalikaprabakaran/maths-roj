@@ -1,0 +1,199 @@
+problem_statement,distribution
+A coin is flipped 51 times. What is the probability of getting exactly 33 heads?,binomial
+A coin is flipped 38 times. What is the probability of getting exactly 52 heads?,binomial
+A coin is flipped 80 times. What is the probability of getting exactly 67 heads?,binomial
+A coin is flipped 96 times. What is the probability of getting exactly 96 heads?,binomial
+A coin is flipped 93 times. What is the probability of getting exactly 87 heads?,binomial
+A coin is flipped 28 times. What is the probability of getting exactly 16 heads?,binomial
+A factory tests 40 items with a 36% defect rate. What is the probability of exactly 18 defective items?,binomial
+A coin is flipped 70 times. What is the probability of getting exactly 88 heads?,binomial
+A factory tests 52 items with a 83% defect rate. What is the probability of exactly 86 defective items?,binomial
+A coin is flipped 49 times. What is the probability of getting exactly 75 heads?,binomial
+A factory tests 41 items with a 29% defect rate. What is the probability of exactly 37 defective items?,binomial
+A factory tests 17 items with a 87% defect rate. What is the probability of exactly 10 defective items?,binomial
+A factory tests 45 items with a 57% defect rate. What is the probability of exactly 47 defective items?,binomial
+A factory tests 21 items with a 69% defect rate. What is the probability of exactly 9 defective items?,binomial
+A factory tests 9 items with a 61% defect rate. What is the probability of exactly 24 defective items?,binomial
+A coin is flipped 79 times. What is the probability of getting exactly 23 heads?,binomial
+A coin is flipped 8 times. What is the probability of getting exactly 37 heads?,binomial
+A coin is flipped 72 times. What is the probability of getting exactly 90 heads?,binomial
+A factory tests 47 items with a 85% defect rate. What is the probability of exactly 51 defective items?,binomial
+A coin is flipped 60 times. What is the probability of getting exactly 18 heads?,binomial
+A coin is flipped 35 times. What is the probability of getting exactly 13 heads?,binomial
+A factory tests 100 items with a 97% defect rate. What is the probability of exactly 98 defective items?,binomial
+A coin is flipped 31 times. What is the probability of getting exactly 48 heads?,binomial
+A coin is flipped 43 times. What is the probability of getting exactly 67 heads?,binomial
+A coin is flipped 28 times. What is the probability of getting exactly 78 heads?,binomial
+A coin is flipped 32 times. What is the probability of getting exactly 8 heads?,binomial
+A factory tests 26 items with a 25% defect rate. What is the probability of exactly 32 defective items?,binomial
+A coin is flipped 83 times. What is the probability of getting exactly 42 heads?,binomial
+A coin is flipped 47 times. What is the probability of getting exactly 85 heads?,binomial
+A coin is flipped 10 times. What is the probability of getting exactly 22 heads?,binomial
+A factory tests 48 items with a 18% defect rate. What is the probability of exactly 76 defective items?,binomial
+A factory tests 90 items with a 43% defect rate. What is the probability of exactly 79 defective items?,binomial
+A coin is flipped 96 times. What is the probability of getting exactly 87 heads?,binomial
+A call center receives 94 calls per minute. What is the probability of exactly 34 calls?,poisson
+A shop gets 14 customers per hour. What is the probability that 46 customers arrive in an hour?,poisson
+A shop gets 43 customers per hour. What is the probability that 97 customers arrive in an hour?,poisson
+A shop gets 62 customers per hour. What is the probability that 33 customers arrive in an hour?,poisson
+A call center receives 59 calls per minute. What is the probability of exactly 57 calls?,poisson
+A call center receives 22 calls per minute. What is the probability of exactly 39 calls?,poisson
+A call center receives 12 calls per minute. What is the probability of exactly 65 calls?,poisson
+A call center receives 44 calls per minute. What is the probability of exactly 86 calls?,poisson
+A call center receives 96 calls per minute. What is the probability of exactly 31 calls?,poisson
+A call center receives 97 calls per minute. What is the probability of exactly 21 calls?,poisson
+A shop gets 35 customers per hour. What is the probability that 7 customers arrive in an hour?,poisson
+A call center receives 43 calls per minute. What is the probability of exactly 27 calls?,poisson
+A shop gets 91 customers per hour. What is the probability that 55 customers arrive in an hour?,poisson
+A shop gets 98 customers per hour. What is the probability that 25 customers arrive in an hour?,poisson
+A call center receives 27 calls per minute. What is the probability of exactly 99 calls?,poisson
+A call center receives 19 calls per minute. What is the probability of exactly 77 calls?,poisson
+A call center receives 82 calls per minute. What is the probability of exactly 84 calls?,poisson
+A shop gets 21 customers per hour. What is the probability that 57 customers arrive in an hour?,poisson
+A shop gets 14 customers per hour. What is the probability that 88 customers arrive in an hour?,poisson
+A shop gets 28 customers per hour. What is the probability that 45 customers arrive in an hour?,poisson
+A call center receives 96 calls per minute. What is the probability of exactly 26 calls?,poisson
+A call center receives 19 calls per minute. What is the probability of exactly 74 calls?,poisson
+A shop gets 72 customers per hour. What is the probability that 64 customers arrive in an hour?,poisson
+A shop gets 52 customers per hour. What is the probability that 55 customers arrive in an hour?,poisson
+A call center receives 8 calls per minute. What is the probability of exactly 96 calls?,poisson
+A shop gets 97 customers per hour. What is the probability that 18 customers arrive in an hour?,poisson
+A call center receives 34 calls per minute. What is the probability of exactly 33 calls?,poisson
+A shop gets 16 customers per hour. What is the probability that 70 customers arrive in an hour?,poisson
+A shop gets 77 customers per hour. What is the probability that 47 customers arrive in an hour?,poisson
+A shop gets 68 customers per hour. What is the probability that 42 customers arrive in an hour?,poisson
+A shop gets 64 customers per hour. What is the probability that 65 customers arrive in an hour?,poisson
+A call center receives 14 calls per minute. What is the probability of exactly 37 calls?,poisson
+A call center receives 64 calls per minute. What is the probability of exactly 78 calls?,poisson
+A factory machine assembles an item successfully 64% of the time. What is the probability that the first success happens on the 39th attempt?,geometric
+A player has a 96% success rate. What is the probability that the first success occurs on the 78th attempt?,geometric
+A player has a 85% success rate. What is the probability that the first success occurs on the 15th attempt?,geometric
+A player has a 88% success rate. What is the probability that the first success occurs on the 97th attempt?,geometric
+A factory machine assembles an item successfully 80% of the time. What is the probability that the first success happens on the 71th attempt?,geometric
+A factory machine assembles an item successfully 9% of the time. What is the probability that the first success happens on the 51th attempt?,geometric
+A player has a 82% success rate. What is the probability that the first success occurs on the 80th attempt?,geometric
+A factory machine assembles an item successfully 71% of the time. What is the probability that the first success happens on the 31th attempt?,geometric
+A player has a 24% success rate. What is the probability that the first success occurs on the 22th attempt?,geometric
+A player has a 48% success rate. What is the probability that the first success occurs on the 95th attempt?,geometric
+A factory machine assembles an item successfully 52% of the time. What is the probability that the first success happens on the 21th attempt?,geometric
+A player has a 79% success rate. What is the probability that the first success occurs on the 18th attempt?,geometric
+A player has a 15% success rate. What is the probability that the first success occurs on the 41th attempt?,geometric
+A player has a 100% success rate. What is the probability that the first success occurs on the 70th attempt?,geometric
+A player has a 15% success rate. What is the probability that the first success occurs on the 19th attempt?,geometric
+A player has a 51% success rate. What is the probability that the first success occurs on the 26th attempt?,geometric
+A factory machine assembles an item successfully 46% of the time. What is the probability that the first success happens on the 37th attempt?,geometric
+A factory machine assembles an item successfully 7% of the time. What is the probability that the first success happens on the 40th attempt?,geometric
+A factory machine assembles an item successfully 65% of the time. What is the probability that the first success happens on the 96th attempt?,geometric
+A factory machine assembles an item successfully 9% of the time. What is the probability that the first success happens on the 29th attempt?,geometric
+A player has a 78% success rate. What is the probability that the first success occurs on the 11th attempt?,geometric
+A player has a 66% success rate. What is the probability that the first success occurs on the 9th attempt?,geometric
+A factory machine assembles an item successfully 85% of the time. What is the probability that the first success happens on the 54th attempt?,geometric
+A factory machine assembles an item successfully 24% of the time. What is the probability that the first success happens on the 38th attempt?,geometric
+A factory machine assembles an item successfully 41% of the time. What is the probability that the first success happens on the 8th attempt?,geometric
+A factory machine assembles an item successfully 81% of the time. What is the probability that the first success happens on the 27th attempt?,geometric
+A player has a 96% success rate. What is the probability that the first success occurs on the 36th attempt?,geometric
+A factory machine assembles an item successfully 71% of the time. What is the probability that the first success happens on the 60th attempt?,geometric
+A player has a 10% success rate. What is the probability that the first success occurs on the 27th attempt?,geometric
+A player has a 87% success rate. What is the probability that the first success occurs on the 37th attempt?,geometric
+A player has a 95% success rate. What is the probability that the first success occurs on the 79th attempt?,geometric
+A player has a 16% success rate. What is the probability that the first success occurs on the 34th attempt?,geometric
+A factory machine assembles an item successfully 34% of the time. What is the probability that the first success happens on the 22th attempt?,geometric
+A light bulb lasts an average of 98 hours. What is the probability that it lasts more than 76 hours?,exponential
+A bus arrives every 76 minutes on average. What is the probability that it arrives within 19 minutes?,exponential
+A bus arrives every 45 minutes on average. What is the probability that it arrives within 65 minutes?,exponential
+A bus arrives every 98 minutes on average. What is the probability that it arrives within 29 minutes?,exponential
+A bus arrives every 42 minutes on average. What is the probability that it arrives within 51 minutes?,exponential
+A bus arrives every 26 minutes on average. What is the probability that it arrives within 57 minutes?,exponential
+A light bulb lasts an average of 27 hours. What is the probability that it lasts more than 57 hours?,exponential
+A light bulb lasts an average of 51 hours. What is the probability that it lasts more than 92 hours?,exponential
+A bus arrives every 29 minutes on average. What is the probability that it arrives within 81 minutes?,exponential
+A light bulb lasts an average of 46 hours. What is the probability that it lasts more than 11 hours?,exponential
+A light bulb lasts an average of 53 hours. What is the probability that it lasts more than 78 hours?,exponential
+A bus arrives every 27 minutes on average. What is the probability that it arrives within 53 minutes?,exponential
+A bus arrives every 21 minutes on average. What is the probability that it arrives within 79 minutes?,exponential
+A light bulb lasts an average of 16 hours. What is the probability that it lasts more than 33 hours?,exponential
+A bus arrives every 90 minutes on average. What is the probability that it arrives within 56 minutes?,exponential
+A bus arrives every 95 minutes on average. What is the probability that it arrives within 87 minutes?,exponential
+A bus arrives every 82 minutes on average. What is the probability that it arrives within 25 minutes?,exponential
+A bus arrives every 10 minutes on average. What is the probability that it arrives within 52 minutes?,exponential
+A light bulb lasts an average of 23 hours. What is the probability that it lasts more than 13 hours?,exponential
+A bus arrives every 8 minutes on average. What is the probability that it arrives within 26 minutes?,exponential
+A light bulb lasts an average of 87 hours. What is the probability that it lasts more than 82 hours?,exponential
+A light bulb lasts an average of 48 hours. What is the probability that it lasts more than 19 hours?,exponential
+A bus arrives every 53 minutes on average. What is the probability that it arrives within 77 minutes?,exponential
+A light bulb lasts an average of 86 hours. What is the probability that it lasts more than 18 hours?,exponential
+A bus arrives every 21 minutes on average. What is the probability that it arrives within 96 minutes?,exponential
+A bus arrives every 67 minutes on average. What is the probability that it arrives within 89 minutes?,exponential
+A light bulb lasts an average of 22 hours. What is the probability that it lasts more than 42 hours?,exponential
+A light bulb lasts an average of 60 hours. What is the probability that it lasts more than 17 hours?,exponential
+A light bulb lasts an average of 92 hours. What is the probability that it lasts more than 50 hours?,exponential
+A light bulb lasts an average of 61 hours. What is the probability that it lasts more than 19 hours?,exponential
+A light bulb lasts an average of 28 hours. What is the probability that it lasts more than 20 hours?,exponential
+A bus arrives every 36 minutes on average. What is the probability that it arrives within 72 minutes?,exponential
+A light bulb lasts an average of 46 hours. What is the probability that it lasts more than 7 hours?,exponential
+Heights of students follow a normal distribution with mean 72 cm and SD 72 cm. What is the probability of a student being shorter than 21 cm?,normal
+Heights of students follow a normal distribution with mean 52 cm and SD 90 cm. What is the probability of a student being shorter than 38 cm?,normal
+A test has an average score of 9 with a standard deviation of 35. What is the probability of scoring above 14?,normal
+Heights of students follow a normal distribution with mean 8 cm and SD 45 cm. What is the probability of a student being shorter than 76 cm?,normal
+A test has an average score of 53 with a standard deviation of 49. What is the probability of scoring above 90?,normal
+Heights of students follow a normal distribution with mean 30 cm and SD 74 cm. What is the probability of a student being shorter than 64 cm?,normal
+A test has an average score of 42 with a standard deviation of 7. What is the probability of scoring above 65?,normal
+A test has an average score of 18 with a standard deviation of 44. What is the probability of scoring above 83?,normal
+A test has an average score of 32 with a standard deviation of 16. What is the probability of scoring above 97?,normal
+A test has an average score of 82 with a standard deviation of 30. What is the probability of scoring above 34?,normal
+Heights of students follow a normal distribution with mean 96 cm and SD 24 cm. What is the probability of a student being shorter than 39 cm?,normal
+Heights of students follow a normal distribution with mean 74 cm and SD 81 cm. What is the probability of a student being shorter than 17 cm?,normal
+Heights of students follow a normal distribution with mean 97 cm and SD 50 cm. What is the probability of a student being shorter than 89 cm?,normal
+Heights of students follow a normal distribution with mean 66 cm and SD 21 cm. What is the probability of a student being shorter than 24 cm?,normal
+Heights of students follow a normal distribution with mean 98 cm and SD 62 cm. What is the probability of a student being shorter than 48 cm?,normal
+Heights of students follow a normal distribution with mean 72 cm and SD 23 cm. What is the probability of a student being shorter than 94 cm?,normal
+A test has an average score of 37 with a standard deviation of 53. What is the probability of scoring above 51?,normal
+Heights of students follow a normal distribution with mean 59 cm and SD 47 cm. What is the probability of a student being shorter than 82 cm?,normal
+Heights of students follow a normal distribution with mean 91 cm and SD 12 cm. What is the probability of a student being shorter than 90 cm?,normal
+A test has an average score of 85 with a standard deviation of 70. What is the probability of scoring above 29?,normal
+A test has an average score of 15 with a standard deviation of 51. What is the probability of scoring above 59?,normal
+Heights of students follow a normal distribution with mean 45 cm and SD 23 cm. What is the probability of a student being shorter than 28 cm?,normal
+A test has an average score of 54 with a standard deviation of 43. What is the probability of scoring above 44?,normal
+A test has an average score of 77 with a standard deviation of 79. What is the probability of scoring above 73?,normal
+Heights of students follow a normal distribution with mean 29 cm and SD 72 cm. What is the probability of a student being shorter than 67 cm?,normal
+Heights of students follow a normal distribution with mean 10 cm and SD 58 cm. What is the probability of a student being shorter than 26 cm?,normal
+Heights of students follow a normal distribution with mean 28 cm and SD 50 cm. What is the probability of a student being shorter than 59 cm?,normal
+Heights of students follow a normal distribution with mean 59 cm and SD 76 cm. What is the probability of a student being shorter than 83 cm?,normal
+A test has an average score of 58 with a standard deviation of 87. What is the probability of scoring above 26?,normal
+Heights of students follow a normal distribution with mean 34 cm and SD 34 cm. What is the probability of a student being shorter than 86 cm?,normal
+Heights of students follow a normal distribution with mean 86 cm and SD 87 cm. What is the probability of a student being shorter than 57 cm?,normal
+Heights of students follow a normal distribution with mean 39 cm and SD 36 cm. What is the probability of a student being shorter than 100 cm?,normal
+Heights of students follow a normal distribution with mean 19 cm and SD 81 cm. What is the probability of a student being shorter than 91 cm?,normal
+A number is randomly picked between 36 and 65. What is the probability that it is less than 71?,uniform
+A bus randomly arrives between 10 and 19 minutes. What is the probability of arriving before 12 minutes?,uniform
+A number is randomly picked between 99 and 72. What is the probability that it is less than 83?,uniform
+A number is randomly picked between 24 and 42. What is the probability that it is less than 80?,uniform
+A bus randomly arrives between 57 and 46 minutes. What is the probability of arriving before 40 minutes?,uniform
+A number is randomly picked between 8 and 71. What is the probability that it is less than 78?,uniform
+A number is randomly picked between 67 and 81. What is the probability that it is less than 54?,uniform
+A number is randomly picked between 12 and 46. What is the probability that it is less than 31?,uniform
+A number is randomly picked between 95 and 30. What is the probability that it is less than 64?,uniform
+A bus randomly arrives between 85 and 46 minutes. What is the probability of arriving before 12 minutes?,uniform
+A number is randomly picked between 54 and 36. What is the probability that it is less than 15?,uniform
+A number is randomly picked between 80 and 62. What is the probability that it is less than 53?,uniform
+A number is randomly picked between 17 and 99. What is the probability that it is less than 29?,uniform
+A number is randomly picked between 80 and 55. What is the probability that it is less than 41?,uniform
+A number is randomly picked between 19 and 47. What is the probability that it is less than 74?,uniform
+A bus randomly arrives between 44 and 90 minutes. What is the probability of arriving before 23 minutes?,uniform
+A number is randomly picked between 33 and 19. What is the probability that it is less than 50?,uniform
+A number is randomly picked between 52 and 64. What is the probability that it is less than 28?,uniform
+A bus randomly arrives between 90 and 87 minutes. What is the probability of arriving before 34 minutes?,uniform
+A bus randomly arrives between 74 and 56 minutes. What is the probability of arriving before 18 minutes?,uniform
+A bus randomly arrives between 10 and 66 minutes. What is the probability of arriving before 45 minutes?,uniform
+A number is randomly picked between 75 and 53. What is the probability that it is less than 61?,uniform
+A number is randomly picked between 11 and 88. What is the probability that it is less than 61?,uniform
+A bus randomly arrives between 90 and 84 minutes. What is the probability of arriving before 86 minutes?,uniform
+A number is randomly picked between 33 and 66. What is the probability that it is less than 39?,uniform
+A number is randomly picked between 80 and 38. What is the probability that it is less than 11?,uniform
+A number is randomly picked between 76 and 44. What is the probability that it is less than 86?,uniform
+A bus randomly arrives between 92 and 40 minutes. What is the probability of arriving before 56 minutes?,uniform
+A number is randomly picked between 84 and 54. What is the probability that it is less than 59?,uniform
+A bus randomly arrives between 28 and 83 minutes. What is the probability of arriving before 62 minutes?,uniform
+A bus randomly arrives between 82 and 45 minutes. What is the probability of arriving before 31 minutes?,uniform
+A bus randomly arrives between 35 and 52 minutes. What is the probability of arriving before 49 minutes?,uniform
+A number is randomly picked between 62 and 87. What is the probability that it is less than 87?,uniform
